@@ -1,0 +1,10 @@
+0	19:28:12.668	Custom indicator Testing\test2 USDJPY,H1: loaded successfully
+0	19:28:12.697	test2 USDJPY,H1: initialized
+0	19:43:45.702	test2 USDJPY,H1: uninit reason 1
+0	19:43:45.704	Custom indicator test2 USDJPY,H1: removed
+0	19:44:23.607	Custom indicator CandleStickPattern\engulfingPattern USDJPY,H1: loaded successfully
+0	19:44:28.141	engulfingPattern USDJPY,H1: initialized
+0	21:34:17.556	engulfingPattern USDJPY,H1: uninit reason 2
+0	21:34:17.558	Custom indicator engulfingPattern USDJPY,H1: removed
+0	21:34:17.571	Custom indicator CandleStickPattern\engulfingPattern USDJPY,H1: loaded successfully
+0	21:34:17.586	engulfingPattern USDJPY,H1: initialized
